@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+*.userprefs
+AssemblyInfo.cs
+Chapter1-NormalizeProgram/bin
+Chapter1-NormalizeProgram/obj
+Chapter2-PerceptronProgram/bin
+Chapter2-PerceptronProgram/obj
+Chapter3-FeedForwardProgram/bin
+Chapter3-FeedForwardProgram/obj
+Chapter4-BackProp/bin
+Chapter4-BackProp/obj
